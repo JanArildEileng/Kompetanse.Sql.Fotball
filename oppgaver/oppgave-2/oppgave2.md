@@ -1,0 +1,1 @@
+ #Lag CTE som returner innoldet  i  [E02017] , med riktige datatyper (Datetime, int)
