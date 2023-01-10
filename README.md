@@ -1,0 +1,1 @@
+"# Kompetanse.Sql.Fotball" 
