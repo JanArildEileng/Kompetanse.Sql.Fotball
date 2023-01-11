@@ -1,6 +1,11 @@
 4a)
      Lag ferdigspilt tabell   ( basert kun på poeng  )
 
+4b) 
+     Lagre ferdigspilt tabel i egen tabell i db   
+     [Football].[dbo].Tabell2017
+
+
      Forventet resultat:
 
 Team   TotalPoints
