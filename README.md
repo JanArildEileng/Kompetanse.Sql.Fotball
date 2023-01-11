@@ -92,6 +92,9 @@ Watford
      Lag tabell , der kun London-lag inngår  ( altså kun kamper mellom London-lag)
 11b) 
      Utvid med Liverpool og Manchester... ( en slags Super League altså...!!)
+11c) 
+     Hvordan mange poeng tar hver by i den ny 'Super League' (fra mest til minst poeng)
+
    
 12)
      Lag liga der hjemme- og borte kamp teller som en kamp... ( totalscore begge kamper)...
