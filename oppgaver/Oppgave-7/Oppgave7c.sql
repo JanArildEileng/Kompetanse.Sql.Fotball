@@ -49,5 +49,9 @@ Group BY HomeTeam,(HomeMatchNr-TotalHomeLoss)
 having COUNT(HomeMatchNr-TotalHomeLoss)>2
 )
 
-select * from HomeLoss_CTE
-where NumberContinuesHomeLoss= ( select MAX(NumberContinuesHomeLoss) FROM HomeLoss_CTE)
+select 
+HomeTeam, COUNT(*) as NumberContinuesLossPeriodes 
+from HomeLoss_CTE
+Group By HomeTeam
+having COUNT(*) >1
+order by NumberContinuesLossPeriodes desc
