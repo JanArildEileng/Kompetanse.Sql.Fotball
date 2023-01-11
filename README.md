@@ -75,9 +75,8 @@ Huddersfield 2
      Hvilket team tapte fleste hjemmpekamper på rad?
 7b)
      Hvilke team tapte minst 3 hjemmpekamper på rad?
-	
-8)	
-     Hvilke team hadde minst 2 perioder med 2 hjemmtap på rad?
+7c) 
+    Hvilke team hadde minst 2 perioder med 2 hjemmtap på rad?
 
 9) 
      Rang sjer(Rank) ( samme antall poeng, samme rank)  teamene etter antall poeng i hjemmekamp fom 6 tom 10
