@@ -27,3 +27,11 @@ Everton	2	4	5
 Southampton	2	3	4
 West Ham	2	4	5
 Huddersfield	2	18	19  
+
+
+Forventet 7c
+HomeTeam	NumberContinuesLossPeriodes
+Swansea	3
+West Brom	2
+Crystal Palace	2
+Huddersfield	2
