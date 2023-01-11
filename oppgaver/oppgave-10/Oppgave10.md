@@ -1,5 +1,11 @@
 10) 
       Lag liste (CTE) over team i London  
-Arsenal
-..
-Watford
+
+Forventet Resultat:
+Team	City
+Arsenal	London
+Chelsea	London
+Crystal Palace	London
+Tottenham	London
+Watford	London
+West Ham	London
