@@ -33,10 +33,15 @@ Row_Number()  OVER (PARTITION BY HomeTeam ORDER BY MatchDato) as HomeMatchNr,
 SUM(case When (HomePoints=0) Then 1 else 0 end)  OVER (PARTITION BY HomeTeam ORDER BY MatchDato) as TotalHomeLoss
 
 FROM ResultsWithPoints_CTE
+<<<<<<< HEAD
 ),
 
 HomeLoss_CTE as 
 (
+=======
+)
+
+>>>>>>> 91464c2 (Oppgave7a)
 select 
 HomeTeam,
 COUNT(HomeMatchNr-TotalHomeLoss)-1 as NumberContinuesHomeLoss,
@@ -47,7 +52,11 @@ MAX(HomeMatchNr) as EndHomeLossMatchNr
 FROM ResultsWithTotalHomeLoss_CTE
 Group BY HomeTeam,(HomeMatchNr-TotalHomeLoss)
 having COUNT(HomeMatchNr-TotalHomeLoss)>2
+<<<<<<< HEAD
 )
 
 select * from HomeLoss_CTE
 where NumberContinuesHomeLoss= ( select MAX(NumberContinuesHomeLoss) FROM HomeLoss_CTE)
+=======
+ORDER BY NumberContinuesHomeLoss desc
+>>>>>>> 91464c2 (Oppgave7a)
