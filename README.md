@@ -100,7 +100,12 @@ Watford
      Lag liga der hjemme- og borte kamp teller som en kamp... ( totalscore begge kamper)...
      Hvordan blir denne tabellen  ( alle lag har da spilt totalt 19 'kamper')
 
+
 13) 
+      Finn alle antall kamper for ALLE mnd i 2017/2018 , også de med 0 (altså totalt 24 mnd..)
+
+
+14) 
      Import excel-fil i database
      Kopier noen tabell over i en annen database
 	 -- med script
@@ -108,16 +113,14 @@ Watford
 	
 Nøtter	
 
-14)
+15)
      Lag tabell (alle lag) , med 2-popeng for seier ( som i gamle dager)
      Hvilke lag ville forbedret sin tabell-posisjon med denne endringen?
 
-15)
+16)
      Få 'noen' til å slette noen rader i fotball-tabellen.
      Finn hvilke kamper som nå mangler ..
 
-16) 
-      Finn alle antall kamper for ALLE mnd i 2017/2018 , også de med 0
 	
 Eksta Harde Nøtter
 
