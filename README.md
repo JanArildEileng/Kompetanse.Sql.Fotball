@@ -130,9 +130,9 @@ Eksta Harde Nøtter
      Hvilke team hadde en lengste seieresrekken ( hjemme og borte kamper sett under ett) 
 
 19)  Med logikken  , hvis A vinner borte mot B og B vinner borte mot C , så er A bedre enn B og C,
-     -  hvilke team var Man United 'beviselig' bedre enn?
-	 -  hvilke team var Man City 'beviselig' bedre enn?
-	 Lag liste over team, sortert på antall team det er bedre enn.....
+     -  hvilke team var Man United 'beviselig' bedre enn? (med max 2 Indirekte  A ->B->C  )
+	 -  hvilke team var Man City 'beviselig' bedre enn?  (med max 3 indirekte  A->B->C->D)
+	 Lag liste over team, med 'Indirekte' ninå ( Nivå 1 A slår B, Nivå 2 A slår B som slår C ..osv)
 	 
 	 
 Bonus:
