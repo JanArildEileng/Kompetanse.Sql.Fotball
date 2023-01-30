@@ -1,0 +1,9 @@
+Start
+Docker-compose up
+
+Login
+
+
+127.0.0.1,1403
+SQL Server Auth: SA
+Password: Football&1234
